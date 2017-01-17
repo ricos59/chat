@@ -1,0 +1,23 @@
+.accueilForm{
+    margin:auto;
+    width:450px;
+    border:solid;
+    padding:10px;
+    border-radius: 15px;
+    background:linear-gradient(#ffd700,  #fff7cc);
+}
+
+.meslabel{
+    display:inline-block;
+    width:150px;
+    vertical-align:top;
+}
+.erreur_msg{
+    display:inline-block;
+    color:red;
+}
+
+input[type=submit] {
+    margin-left:250px;
+    width:150px
+}
